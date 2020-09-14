@@ -8,7 +8,7 @@
     "@vuepress/plugin-back-to-top": "^1.5.2",
     "@vuepress/plugin-blog": "^1.9.2",
     "@vuepress/plugin-google-analytics": "^1.5.2",
-    "vuepress": "^1.5.2"
+    "vuepress": "^1.5.4"
   },
   "dependencies": {
     "esm": "^3.2.25",
