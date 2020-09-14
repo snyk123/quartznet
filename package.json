@@ -4,7 +4,7 @@
   "description": "Quartz.NET Documentation",
   "main": "index.js",
   "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.5.2",
+    "@vuepress/plugin-active-header-links": "^1.5.4",
     "@vuepress/plugin-back-to-top": "^1.5.2",
     "@vuepress/plugin-blog": "^1.9.2",
     "@vuepress/plugin-google-analytics": "^1.5.2",
