@@ -17,11 +17,11 @@
   <ItemGroup>
     <ProjectReference Include="..\Quartz\Quartz.csproj" />
     <ProjectReference Include="..\Quartz.Serialization.Json\Quartz.Serialization.Json.csproj" />
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0-preview2-final" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="1.0.0" />
     <PackageReference Include="bootbox.TypeScript.DefinitelyTyped" Version="1.2.0" />
     <PackageReference Include="bootstrap.TypeScript.DefinitelyTyped" Version="0.9.1" />
-    <PackageReference Include="jQuery" Version="2.2.3" />
+    <PackageReference Include="jQuery" Version="3.5.0" />
     <PackageReference Include="jquery.TypeScript.DefinitelyTyped" Version="3.0.6" />
     <PackageReference Include="moment.TypeScript.DefinitelyTyped" Version="1.7.9" />
     <PackageReference Include="Newtonsoft.Json" Version="10.*" />
